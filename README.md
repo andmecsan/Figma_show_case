@@ -1,70 +1,25 @@
-# Getting Started with Create React App
+# What's new in Figma Dev Mode? 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I prepare this little repo to test the github extension of the new 💫**Dev Mode**💫 We are going to 🏊 into some interesting things, let's go!
 
-## Available Scripts
+## Github Extension 🐱‍💻
 
-In the project directory, you can run:
+Let's start with the new Gihub extension, there is a new plugin that connects **Figma with Github**, but how it works?
 
-### `npm start`
+You can 🔗 a PR link to a component inside Figma, so inside Figma we can consult the status of the PR. What are my thoughts about this? I think it's a great way for the designer and product team to see the status of the development of a component, but from a developer's point of view it may not be our query flow, since we usually go directly to the PR to check it without going through Figma 🎨 first.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Open in Visual Studio Tool 🛠️
 
-### `npm test`
+Next it's the VS tool, supposedly we can open the design inside VS to check directly the designs and navigate between them in another tab right next to our code, how cool it's that! But it's a shame that it's not working right now because of this [bug](https://forum.figma.com/t/vscode-extension-not-working/45724), beta effect 🧪😶
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## And inside Figma? 🎨🤔
+Pretty cool new things! 
 
-### `npm run build`
+First the new **Ready for development section 🎁**, the designer can mark now the sections/components that are ready for development as the name suggest, great to be aware of what are the finished designs in earliers steps of the product 👶
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+The new **Inspect Section**, now from the developer perspective it's much easier to see in code the css styles and layout of a component, also they added a more visual way to see the structure of the padding,. margin and border of a component. They also allow to create variable so for example we can see in Figma if the margin of a component its a s24 or a s8 directly, much easier! 😭✨
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Amazing stuff...right? 👀
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+What are our thoughts? 🧠 I think that all these new features can help us to give a greater use to Figma than we give it as developers 🤓, we can start to implement the use of these new tools to have more present the design in the development process, but let's open the debate 🍈. Thank you! 🤗
