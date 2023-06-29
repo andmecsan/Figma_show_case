@@ -18,7 +18,7 @@ Pretty cool new things!
 
 First the new **Ready for development section 🎁**, the designer can mark now the sections/components that are ready for development as the name suggest, great to be aware of what are the finished designs in earliers steps of the product 👶
 
-The new **Inspect Section**, now from the developer perspective it's much easier to see in code the css styles and layout of a component, also they added a more visual way to see the structure of the padding,. margin and border of a component. They also allow to create variable so for example we can see in Figma if the margin of a component its a s24 or a s8 directly, much easier! 😭✨
+The new **Inspect Section 🔍**, now from the developer perspective it's much easier to see in code the css styles and layout of a component, also they added a more visual way to see the structure of the padding,. margin and border of a component. They also allow to create variable so for example we can see in Figma if the margin of a component its a s24 or a s8 directly, much easier! 😭✨
 
 ## Amazing stuff...right? 👀
 
